@@ -1,1 +1,1 @@
-This repository has move to <https://github.com/asier-gutierrez/pasapalabra>
+This repository has moved to <https://github.com/asier-gutierrez/pasapalabra>
