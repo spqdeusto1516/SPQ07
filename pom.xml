@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
 	<groupId>PasapalabraSim</groupId>
-	<artifactId>PasapalabraSim</artifactId>
+	<artifactId>PasapalabraSim2.0</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>PasapalabraSim</name>
+	<name>PasapalabraSim2.0</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
